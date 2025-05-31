@@ -1,1 +1,1 @@
-# DecimelBinary
+# DecimalBinary
